@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node --version)",
+      "PowerShell(npm --version)",
+      "PowerShell(git init -b main)",
+      "PowerShell(git add .)",
+      "PowerShell(git commit -m \"Initial Next.js scaffold with entry form\")"
+    ]
+  }
+}
